@@ -3953,7 +3953,7 @@
     "modified": "2020-10-15T21:23:35.850Z",
     "contributors": ["fscholz", "teoli", "srsaude"]
   },
-  "Web/API/URL/revokeObjectURL": {
+  "Web/API/URL/revokeObjectURL_static": {
     "modified": "2019-03-23T22:23:24.178Z",
     "contributors": ["emmanueldaher"]
   },
@@ -7737,6 +7737,10 @@
     "modified": "2020-03-12T19:42:35.835Z",
     "contributors": ["Franck_Moreira", "odisseumau", "reuel.jonathan"]
   },
+  "Web/JavaScript/Guide/Typed_arrays": {
+    "modified": "2020-03-12T19:45:33.922Z",
+    "contributors": ["pauloantonelli", "andrevargas"]
+  },
   "Web/JavaScript/Guide/Using_promises": {
     "modified": "2020-04-19T11:41:18.110Z",
     "contributors": [
@@ -7960,10 +7964,6 @@
     "modified": "2020-03-12T19:47:33.508Z",
     "contributors": ["danemmanuel"]
   },
-  "Web/JavaScript/Reference/Errors/Not_a_codepoint": {
-    "modified": "2020-03-12T19:49:24.646Z",
-    "contributors": ["ViniciusMatias"]
-  },
   "Web/JavaScript/Reference/Errors/Not_a_function": {
     "modified": "2020-03-12T19:46:51.395Z",
     "contributors": [
@@ -7973,6 +7973,10 @@
       "lucianoac",
       "rubenfaria"
     ]
+  },
+  "Web/JavaScript/Reference/Errors/Not_a_valid_code_point": {
+    "modified": "2020-03-12T19:49:24.646Z",
+    "contributors": ["ViniciusMatias"]
   },
   "Web/JavaScript/Reference/Errors/Not_defined": {
     "modified": "2020-03-12T19:45:05.709Z",
@@ -10414,10 +10418,6 @@
       "trestini",
       "lucasmedeiros"
     ]
-  },
-  "Web/JavaScript/Typed_arrays": {
-    "modified": "2020-03-12T19:45:33.922Z",
-    "contributors": ["pauloantonelli", "andrevargas"]
   },
   "Web/Manifest": {
     "modified": "2019-06-02T15:51:05.029Z",
