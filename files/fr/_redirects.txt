@@ -4879,7 +4879,7 @@
 /fr/docs/Web/JavaScript/Guide/Expressions_régulières/Groupes_et_intervalles	/fr/docs/Web/JavaScript/Guide/Regular_expressions/Groups_and_backreferences
 /fr/docs/Web/JavaScript/Guide/Expressions_régulières/Limites	/fr/docs/Web/JavaScript/Guide/Regular_expressions/Assertions
 /fr/docs/Web/JavaScript/Guide/Expressions_régulières/Quantificateurs	/fr/docs/Web/JavaScript/Guide/Regular_expressions/Quantifiers
-/fr/docs/Web/JavaScript/Guide/Expressions_régulières/Échappement_propriétés_Unicode	/fr/docs/Web/JavaScript/Guide/Regular_expressions/Unicode_property_escapes
+/fr/docs/Web/JavaScript/Guide/Expressions_régulières/Échappement_propriétés_Unicode	/fr/docs/Web/JavaScript/Reference/Regular_expressions/Unicode_character_class_escape
 /fr/docs/Web/JavaScript/Guide/Fonctions	/fr/docs/Web/JavaScript/Guide/Functions
 /fr/docs/Web/JavaScript/Guide/Formatage_du_texte	/fr/docs/Web/JavaScript/Guide/Text_formatting
 /fr/docs/Web/JavaScript/Guide/Inheritance_and_the_prototype_chain	/fr/docs/Web/JavaScript/Inheritance_and_the_prototype_chain
@@ -4892,6 +4892,7 @@
 /fr/docs/Web/JavaScript/Guide/Nombres_et_dates	/fr/docs/Web/JavaScript/Guide/Numbers_and_dates
 /fr/docs/Web/JavaScript/Guide/Objets_élémentaires_JavaScript	/fr/docs/Web/JavaScript/Guide
 /fr/docs/Web/JavaScript/Guide/Regular_Expressions/Groups_and_Ranges	/fr/docs/Web/JavaScript/Guide/Regular_expressions/Groups_and_backreferences
+/fr/docs/Web/JavaScript/Guide/Regular_expressions/Unicode_property_escapes	/fr/docs/Web/JavaScript/Reference/Regular_expressions/Unicode_character_class_escape
 /fr/docs/Web/JavaScript/Guide/Retours_sur_héritage	/fr/docs/Web/JavaScript/Inheritance_and_the_prototype_chain
 /fr/docs/Web/JavaScript/Guide/Types_et_grammaire	/fr/docs/Web/JavaScript/Guide/Grammar_and_types
 /fr/docs/Web/JavaScript/Guide/Utiliser_le_JSON_natif	/fr/docs/Web/JavaScript/Reference/Global_Objects/JSON
@@ -4966,7 +4967,7 @@
 /fr/docs/Web/JavaScript/Reference/Erreurs/No_properties	/fr/docs/Web/JavaScript/Reference/Errors/No_properties
 /fr/docs/Web/JavaScript/Reference/Erreurs/No_variable_name	/fr/docs/Web/JavaScript/Reference/Errors/No_variable_name
 /fr/docs/Web/JavaScript/Reference/Erreurs/Non_configurable_array_element	/fr/docs/Web/JavaScript/Reference/Errors/Non_configurable_array_element
-/fr/docs/Web/JavaScript/Reference/Erreurs/Not_a_codepoint	/fr/docs/Web/JavaScript/Reference/Errors/Not_a_codepoint
+/fr/docs/Web/JavaScript/Reference/Erreurs/Not_a_codepoint	/fr/docs/Web/JavaScript/Reference/Errors/Not_a_valid_code_point
 /fr/docs/Web/JavaScript/Reference/Erreurs/Not_a_constructor	/fr/docs/Web/JavaScript/Reference/Errors/Not_a_constructor
 /fr/docs/Web/JavaScript/Reference/Erreurs/Not_a_function	/fr/docs/Web/JavaScript/Reference/Errors/Not_a_function
 /fr/docs/Web/JavaScript/Reference/Erreurs/Not_defined	/fr/docs/Web/JavaScript/Reference/Errors/Not_defined
@@ -4997,6 +4998,7 @@
 /fr/docs/Web/JavaScript/Reference/Errors/Deprecated_expression_closures	/fr/docs/Web/JavaScript/Reference/Deprecated_and_obsolete_features
 /fr/docs/Web/JavaScript/Reference/Errors/Deprecated_toLocaleFormat	/fr/docs/Web/JavaScript/Reference/Deprecated_and_obsolete_features
 /fr/docs/Web/JavaScript/Reference/Errors/Malformed_formal_parameter	/fr/docs/Web/JavaScript/Reference/Errors/Missing_formal_parameter
+/fr/docs/Web/JavaScript/Reference/Errors/Not_a_codepoint	/fr/docs/Web/JavaScript/Reference/Errors/Not_a_valid_code_point
 /fr/docs/Web/JavaScript/Reference/Fonctions	/fr/docs/Web/JavaScript/Reference/Functions
 /fr/docs/Web/JavaScript/Reference/Fonctions/Définition_de_méthode	/fr/docs/Web/JavaScript/Reference/Functions/Method_definitions
 /fr/docs/Web/JavaScript/Reference/Fonctions/Fonctions_fléchées	/fr/docs/Web/JavaScript/Reference/Functions/Arrow_functions
